@@ -1,7 +1,8 @@
 # About Me
 
 ## Name: Lourival Cavalcante
-- [Meu perfil no LinkedIn]([https://www.linkedin.com/seu_perfil_do_linkedin](https://www.linkedin.com/in/lourival-cavalcante/)
+- [![Ícone do LinkedIn](https://www.linkedin.com/in/lourival-cavalcante/)
+
 
 ## Location: Manaus - AM - Brazil
 
